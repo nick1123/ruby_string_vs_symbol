@@ -1,9 +1,13 @@
 # Ruby: String vs Symbol speed comparison
 
-## How to run it
+### How to run it
 
 ```ruby
 stewie$ ruby main.rb
+```
+
+### Example output
+```
 How long does it take to create 1000000 hashes, when keys are strings?
 Time: 1.414671 seconds
 
